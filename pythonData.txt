@@ -1,0 +1,75 @@
+
+  QUESTIONS:
+                                                                             SELFE_LEARNING:    date >> 11/04/2022.
+
+
+  1. WHAT IS THE PYTHON, AND IT WAS CREATED BY WHO ?
+  2. WHAT KIND OF TYPES WRITING ARE THERE IN THE PYTHON ?
+
+
+  ANSWERS:
+
+  A) PYTHON THAT IS PROGGRAMMING LANGUAGE OFTEN USE TO BUILD WEBSITE, SOFTWORD, AND  CONDUCT DATA ANALYS.
+
+  Python was created by Guido van Rossum, and first released on February 20, 1991. While you may know
+  the python as a large snake, the name of the Python programming language comes 
+  from an old BBC television comedy sketch series called Monty Python's Flying Circus 
+
+  B) THERE ARE TWO TYPE WRITING: FIRST IS CALLED SBAKE_CASE (YOU CAN WRITE WITH UNDERSCORE(-) BETWEEN TWO WORDS).
+    SECOND IS CALLED CamelCase ( bigger letter that is firts of words).
+
+QUESTIONS: 2.
+  
+
+  1.HOW TO MODIFY THE INTEGER TO STRING ?
+  2.LET'S TO LEARN NUMBERS
+  3.MULTIPLE LINE && COMMIT 
+                                                                             SELFE_LEARNING:    date >> 11/05/2022.
+
+
+  ANSWERS:
+
+    A)  WE CAN USE THE STR(INTEGER), SO THIS HELPS US TO  CHANGE THE NUMBERS TO STRING ELEMANTS.
+    EX: AGE=34
+    PRINT("MY AGE" +STR(AGE))
+
+    B)  WE WILL LEARN THE COLCULAETE THE MATH EXERCISES
+
+       INT_NUM=45*6*8-45/3  # THIS IS FOR INTEGER
+       PRINT(INT_NUM) 
+       
+       FLOAT_NUM=3.458+35  #THIS IS FOR FLOAT && DOUBLE
+       PRINT(FLOAT_NUM)
+
+       SUBSTANTION IN FLOAT AND  INTEGER 
+
+       INT_NUM=45 // 5
+       NARTIJA: 9
+       FLOAT_NUM=45/8
+   C) WE CAN USE MULTIPLE LINE TO DO SEVERAL LINE EXERCISES 
+   """
+   ----------
+   ---------
+
+   """
+
+   # ---------- THIS IS COMMIT
+
+   QUESTIONS:
+           
+                                                                               SELFE_LEARNING:    date >> 11/06/2022.  
+
+      1.Can you tell me  about data type ?
+      2.please write something that is related to data types.
+      3.Write examples for the NUMBERS, and say about them .
+      4.What is the python casting ?
+
+   ANSWERS:
+
+
+    A)                                                                                 
+
+
+
+
+                                               
