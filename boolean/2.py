@@ -1,3 +1,5 @@
+
+
 while (1):
 
     A = int(input("A>>>"))
