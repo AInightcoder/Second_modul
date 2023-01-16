@@ -1,0 +1,7 @@
+from itertools import islice
+
+itertools --> module bo'lib , for loop orqali ma'lumotlar ni itrate (qaytarish ) uchun ishlatiladi.
+
+islice --> bu function bo'lib itorator hisoblanadi.
+
+

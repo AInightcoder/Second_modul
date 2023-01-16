@@ -1,0 +1,16 @@
+           White board projects.
+
+ Tkinter:
+
+geometry() --> bu dimensions window uchun foyadlanuvchi moslashtirish uchun.
+configure()--> bu moshlashtirilgan pythonni yaratish uchun iishlatiladi.
+ configure has two type.
+resizable() -->  bu window sizeni o'zgartirish uchun foydalinadi.
+PhotoImage() --> bu fotoni iconni qo'yish uchun foydalanamiz.
+iconphoto()--> bu image ni PhotoImage bilan bog'lashda qo'llandi.
+Lable()--> bu qaysi iconga argumat kirgizsak foydalanizm.
+Button()--> bu button curserini yuritish uchun
+Canvans()--> bu iconnni rectangel ichiga joylashtirish yani margin degani.
+
+
+

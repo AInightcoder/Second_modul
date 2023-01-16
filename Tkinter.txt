@@ -1,0 +1,34 @@
+       Tkinter(framework)
+
+Tkinter --> GUI chilar uchun foydalinadi.
+
+import tkinter // kutibxona chaqirish
+
+1.Tk(screenName=None, baseName=None, className='Tk', useTk=1);
+
+m=tkinter.Tk() bu yerda m mainwindowni namei
+
+2.mainloop()--> bu qachon application tugaganda mainloop() functioni 
+oxiriga qo'yiladi
+
+m.mainloop()
+
+3.pack() --> bu parent wedgets joylashishidan oldin blockdagi wedgets tashkilashtirish uchun
+qo'llaniladi.
+
+4.grid() --> bu parent wedgets joylashishidan oldin grid ichidagi wedgetlar (table-like structure)
+kabi tashkillantiradi.
+
+5.place() --> bu programmer tomonidan wedgetlar maxsus holada tashkillashtirish uchun
+qo'llanadi.
+   
+                  Button().
+
+activebackground: to set the background color when button is under the cursor.
+activeforeground: to set the foreground color when button is under the cursor.
+bg: to set he normal background color.
+command: to call a function.
+font: to set the font on the button label.
+image: to set the image on the button.
+width: to set the width of the button.
+height: to set the height of the button

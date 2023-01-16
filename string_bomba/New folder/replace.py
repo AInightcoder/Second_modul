@@ -2,6 +2,8 @@
 
 a="Salom hammag"
 
-txt=a.replace("S","d")
+for i in range(len(a)):
+  if a[i]=='l':
+    txt=a.replace(a[i],"d")
 
 print(txt)

@@ -4,9 +4,9 @@ def Prime(N):
     if N%i==0:
       print(False)
       break
-  else:
-      print(True)
-  
+
+    print(True)
+    break
 
 son=int(input("Son >>> "))
 Prime(son)
